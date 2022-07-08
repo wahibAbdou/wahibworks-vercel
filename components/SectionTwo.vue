@@ -123,7 +123,7 @@ export default {
 }
 
 .hooper-indicator {
-	background-color: #ffee99;
+	background-color: #ffee99 !important;
 	cursor: pointer;
 }
 
@@ -133,7 +133,7 @@ export default {
 }
 
 .hooper-pagination {
-	bottom: 35px;
+	bottom: 35px !important;
 }
 
 @media only screen and (min-width: 768px) {
